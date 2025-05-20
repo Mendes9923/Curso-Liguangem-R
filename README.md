@@ -51,10 +51,11 @@ tidy(modelo) %>%
 glance(modelo) %>%
   kable(caption = "Métricas do Modelo")
 ```
+```
 portfolio-R/
-├── /Introdução/
-├── /Limguagem R/
-
+├── Introdução/
+├── Linguagem R/
+```
 
 ### 🛠️ Stack Completa
 | Categoria      | Pacotes/Ferramentas                     |
