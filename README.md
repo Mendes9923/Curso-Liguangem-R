@@ -5,7 +5,45 @@
 [![Licença](https://img.shields.io/badge/Licença-MIT-green)](LICENSE)
 
 Repositório profissional demonstrando aplicações avançadas da linguagem R em análise de dados, estatística e visualização.
+# Conceitos Básicos de R
 
+Este repositório reúne três scripts introdutórios em R, abordando conceitos fundamentais da linguagem para iniciantes.
+
+## Arquivos
+
+### `operadores_matematicos.R`
+
+Demonstra o uso dos principais operadores matemáticos em R:
+
+- Operações básicas: soma, subtração, multiplicação e divisão
+- Potenciação e radiciação
+- Módulo e fatorial
+- Logaritmos e exponenciais
+- Funções trigonométricas (em radianos)
+- Notação científica
+- Constante `pi` e consulta da versão do R
+
+### `variaveis.R`
+
+Apresenta a criação e manipulação de objetos (variáveis) em R:
+
+- Atribuição de valores
+- Boas práticas de nomenclatura
+- Tipos básicos de dados: `numeric`, `integer`, `complex`, `character`, `logical` e `factor`
+- Conversão entre tipos
+- Uso da função `length()` para verificar o comprimento de objetos
+
+### `vetores.R`
+
+Explora a estrutura de dados *vetor* em R:
+
+- Criação de vetores numéricos e de caracteres
+- Combinação de vetores
+- Operações sobre vetores: soma, média, mínimo, máximo, ordenação
+- Geração de sequências (`:` e `seq`) e repetições (`rep`)
+- Indexação de elementos: acesso por posição, exclusão de elementos
+- Conversão de tipo e manipulação de classes
+  
 ## 🧩 Técnicas Demonstradas
 
 ### 🔧 Manipulação de Dados
