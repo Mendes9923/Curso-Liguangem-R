@@ -51,7 +51,22 @@ Apresenta a criação e manipulação de **matrizes**, estruturas bidimensionais
 - Combinação de vetores com `rbind()`  
 - Nomeação de linhas e colunas com `dimnames`  
 - Operações com matrizes: soma, subtração, multiplicação escalar e matricial  
-- Cálculo de média e soma por linha e por coluna com `rowMeans()`, `colMeans()`, `rowSums()` e `colSums()`  
+- Cálculo de média e soma por linha e por coluna com `rowMeans()`, `colMeans()`, `rowSums()` e `colSums()`
+
+### `data_frame_listas.R`
+
+Apresenta dois tipos importantes de estruturas de dados em R: **data frames** e **listas**.
+
+- **Data frames**:
+  - Tabelas com colunas de diferentes tipos (números, texto etc.)
+  - Criação manual e visualização de data frames
+  - Exemplos com conjuntos de dados internos do R: `mtcars`, `airquality` e `iris`
+  - Uso de funções como `nrow()`, `ncol()`, `dim()` e `summary()`
+
+- **Listas**:
+  - Estrutura que pode conter elementos de tipos diferentes (vetores, strings, números etc.)
+  - Criação de listas simples e nomeadas
+  - Acesso a elementos por índice ou por nome
 ## 🧩 Técnicas Demonstradas
 
 ### 🔧 Manipulação de Dados
