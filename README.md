@@ -42,6 +42,16 @@ Explora o uso de fatores (factors), uma estrutura de dados utilizada para repres
 - Uso das funções `summary()` e `table()` para análise de frequência  
 - Aplicação prática: categorias como nível de escolaridade e tensão elétrica residencial (110V, 220V)  
 
+### `matriz.R`
+
+Apresenta a criação e manipulação de **matrizes**, estruturas bidimensionais organizadas em linhas e colunas:
+
+- Criação de matrizes com números e com caracteres  
+- Acesso a elementos por índice  
+- Combinação de vetores com `rbind()`  
+- Nomeação de linhas e colunas com `dimnames`  
+- Operações com matrizes: soma, subtração, multiplicação escalar e matricial  
+- Cálculo de média e soma por linha e por coluna com `rowMeans()`, `colMeans()`, `rowSums()` e `colSums()`  
 ## 🧩 Técnicas Demonstradas
 
 ### 🔧 Manipulação de Dados
