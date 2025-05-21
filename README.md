@@ -7,7 +7,7 @@
 Repositório profissional demonstrando aplicações avançadas da linguagem R em análise de dados, estatística e visualização.
 # Conceitos Básicos de R
 
-Este repositório reúne três scripts introdutórios em R, abordando conceitos fundamentais da linguagem para iniciantes.
+Este repositório reúne **três scripts introdutórios** em R, com foco em conceitos fundamentais da linguagem.
 
 ## Arquivos
 
@@ -15,35 +15,33 @@ Este repositório reúne três scripts introdutórios em R, abordando conceitos 
 
 Demonstra o uso dos principais operadores matemáticos em R:
 
-- Operações básicas: soma, subtração, multiplicação e divisão
-- Potenciação e radiciação
-- Módulo e fatorial
-- Logaritmos e exponenciais
-- Funções trigonométricas (em radianos)
-- Notação científica
-- Constante `pi` e consulta da versão do R
+- Operações básicas: soma, subtração, multiplicação e divisão  
+- Potenciação e radiciação  
+- Módulo e fatorial  
+- Logaritmos e exponenciais  
+- Funções trigonométricas (em radianos)  
+- Notação científica  
+- Constante `pi` e consulta da versão do R  
 
 ### `variaveis.R`
 
 Apresenta a criação e manipulação de objetos (variáveis) em R:
 
-- Atribuição de valores
-- Boas práticas de nomenclatura
-- Tipos básicos de dados: `numeric`, `integer`, `complex`, `character`, `logical` e `factor`
-- Conversão entre tipos
-- Uso da função `length()` para verificar o comprimento de objetos
+- Atribuição de valores  
+- Boas práticas de nomenclatura  
+- Tipos básicos de dados: `numeric`, `integer`, `complex`, `character`, `logical` e `factor`  
+- Conversão entre tipos  
+- Uso da função `length()` para verificar o comprimento de objetos  
 
-### `vetores.R`
+### `fatores.R`
 
-Explora a estrutura de dados *vetor* em R:
+Explora o uso de fatores (factors), uma estrutura de dados utilizada para representar variáveis categóricas:
 
-- Criação de vetores numéricos e de caracteres
-- Combinação de vetores
-- Operações sobre vetores: soma, média, mínimo, máximo, ordenação
-- Geração de sequências (`:` e `seq`) e repetições (`rep`)
-- Indexação de elementos: acesso por posição, exclusão de elementos
-- Conversão de tipo e manipulação de classes
-  
+- Criação de fatores a partir de vetores com valores categóricos  
+- Comparação entre vetores comuns e fatores  
+- Uso das funções `summary()` e `table()` para análise de frequência  
+- Aplicação prática: categorias como nível de escolaridade e tensão elétrica residencial (110V, 220V)  
+
 ## 🧩 Técnicas Demonstradas
 
 ### 🔧 Manipulação de Dados
